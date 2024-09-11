@@ -11,3 +11,10 @@ This project not only helped to apply the concepts of big data processing but al
 
 See the proposal: L00186191_Mercy_Mulambia_Proposal_I.pdf
 See the code please take a look at the Python Code: Project_Notebook/Code_L00186191_Big_Data.ipynb
+
+
+In my GitHub repository, I showcase a project from my Big Data Analytics module, where I focused on predictive analytics using YouTube trending video data. This project involved building and tuning machine learning models with Scikit-learn (sklearn) to predict factors that influence video popularity.
+
+I implemented and compared multiple ensemble models to predict the logarithm of video views, ensuring stability in the predictions. This project allowed me to apply big data analytics techniques and gain hands-on experience with real-world data, enhancing my skills in predictive modeling and machine learning.
+
+See the code please take a look at the Python Code: Technical_Project_II_Predictive_Analytics_Youtube_Trending_Videos_2023.ipynb
